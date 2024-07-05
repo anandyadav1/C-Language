@@ -16,6 +16,6 @@ int main()
 {
     int arr[] = { 10, 34, 45, 90, 78 };
     int n = sizeof(arr) / sizeof(arr[0]);
-    printf("%d",largest(arr, n));
+    printf("%d  ",largest(arr, n));
     return 0;
 }
