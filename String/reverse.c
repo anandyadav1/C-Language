@@ -19,6 +19,7 @@ int main()
         char temp = str[i];
         str[i] = str[j];
         str[j] = temp;
+
     }
 
     puts("After reverse String :");
