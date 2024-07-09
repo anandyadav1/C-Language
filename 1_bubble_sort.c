@@ -9,6 +9,7 @@ void printArray(int *arr1, int n)
     printf("\n");
 }
 
+
 void bubbleSort(int *arr1, int n)
 {
     int temp;

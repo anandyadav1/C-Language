@@ -6,6 +6,7 @@ int main()
    char str[] ="ajjagjsfhgkjhsfkjgfskjk";
    char str1[]="anandkumaryadav";
    puts(str1);
+   
    printf("%s", str1);
 
     char *ptr = str;
