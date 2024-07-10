@@ -13,7 +13,6 @@ int i=1;
         i++;
     }
     factor(num-1);
-    
 }
 
 int main() {
